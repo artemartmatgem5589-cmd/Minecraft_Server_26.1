@@ -1,7 +1,7 @@
 # 🚀 Minecraft Server 26.1 - Optimized Starter Kit
 
 ### 📥 1. Download Server Core:
-* [Official Minecraft Server 26.1 .jar](https://www.minecraft.net/en-us/download/server)
+* [Official Minecraft Server 26.1 .jar](https://www.minecraft.net/ru-ru/article/minecraft-26-1-release-candidate-1)
 *(Put this file in the same folder as start.bat)*
 
 ### ☕ 2. Required Java Version:
